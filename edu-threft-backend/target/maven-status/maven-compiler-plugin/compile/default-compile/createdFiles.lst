@@ -1,0 +1,13 @@
+com\eduthreft\edu_threft_backend\controller\ProductController.class
+com\eduthreft\edu_threft_backend\model\Review.class
+com\eduthreft\edu_threft_backend\repository\ProductRepository.class
+com\eduthreft\edu_threft_backend\model\Order.class
+com\eduthreft\edu_threft_backend\model\Product.class
+com\eduthreft\edu_threft_backend\controller\ReviewController.class
+com\eduthreft\edu_threft_backend\repository\ReviewRepository.class
+com\eduthreft\edu_threft_backend\controller\UserController.class
+com\eduthreft\edu_threft_backend\repository\OrderRepository.class
+com\eduthreft\edu_threft_backend\model\User.class
+com\eduthreft\edu_threft_backend\repository\UserRepository.class
+com\eduthreft\edu_threft_backend\EduThreftBackendApplication.class
+com\eduthreft\edu_threft_backend\controller\OrderController.class
